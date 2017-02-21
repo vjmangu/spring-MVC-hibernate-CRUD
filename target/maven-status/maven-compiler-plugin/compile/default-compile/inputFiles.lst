@@ -1,0 +1,6 @@
+J:\Spring MVC Workspace\SpringHibernateCRUD\src\main\java\com\application\controller\CustomerController.java
+J:\Spring MVC Workspace\SpringHibernateCRUD\src\main\java\com\application\entity\Customer.java
+J:\Spring MVC Workspace\SpringHibernateCRUD\src\main\java\com\application\dao\impl\CustomerDAOImpl.java
+J:\Spring MVC Workspace\SpringHibernateCRUD\src\main\java\com\application\utilities\HibernateUtil.java
+J:\Spring MVC Workspace\SpringHibernateCRUD\src\main\java\com\application\dao\CustomerDAO.java
+J:\Spring MVC Workspace\SpringHibernateCRUD\src\main\java\com\application\entity\User.java
